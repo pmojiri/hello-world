@@ -1,4 +1,9 @@
 # hello-world
-Just for practice
-Hello everybody! 
-I am a new in GitHub!
+
+**Just for practice!**
+
+_Hello everybody!_ 
+
+``I am a new in GitHub!``
+
+
